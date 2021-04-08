@@ -22,6 +22,4 @@ WORKDIR /
 VOLUME  /flask_deploy
 
 ENTRYPOINT ["/bin/sh"]
-CMD ["help"]
-
-
+CMD ["python aws_lambda_requests.py"]

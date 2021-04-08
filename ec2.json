@@ -1,8 +1,0 @@
-{
-  "scheduled": true,
-  "start_instance": true,
-  "stop_instance": false,
-  "instances": [
-    "i-024202e0899278762"
-  ]
-}
